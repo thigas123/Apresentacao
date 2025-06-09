@@ -26,5 +26,5 @@ Confira meu portfólio completo com dashboards, análises e automações em dado
 
 ## 📫 Contato
 
-- [LinkedIn]: https://www.linkedin.com/in/thiago-muniz-a6038921b
+- LinkedIn: https://www.linkedin.com/in/thiago-muniz-a6038921b
 - 📧 Email: munizt777@gmail.com
